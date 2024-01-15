@@ -59,11 +59,20 @@
               neovim
               doctl
               lego
-              elixir_1_15
+              elixir_1_16
               cmake
               xh
               unzip
               nodejs
+              choose
+              miller
+              ncdu
+              kubectl
+              tilt
+              inotify-tools
+              shellcheck
+              croc
+
             ];
           };
           # If you desire a set of personalized packages,
